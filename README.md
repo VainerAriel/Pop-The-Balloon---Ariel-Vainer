@@ -1,4 +1,4 @@
-# Pop-The-Balloon---Ariel-Vainer
+# Pop-The-Balloon---Python
 Ariel Vainer
 
 I initially began learning Python in 2020, but was unable to continue at the time. 
